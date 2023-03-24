@@ -50,7 +50,7 @@ struct ContentView: View {
                 }
                 .frame(maxWidth: .infinity)
                 .padding(.vertical, 20)
-                .background(.thinMaterial)"
+                .background(.thinMaterial)
                 .clipShape(RoundedRectangle(cornerRadius: 20))
                 
                 Spacer()
