@@ -5,4 +5,8 @@ This is a game called Guess the Flag. You need to guess the right flag which is 
 
 
 
-<img width="463" alt="Screenshot 2023-03-24 at 15 19 18" src="https://user-images.githubusercontent.com/125444166/227520621-3884dece-a624-4ebe-a214-ef6063cab585.png">
+
+
+
+https://user-images.githubusercontent.com/125444166/227720256-a4997450-9bcf-47ee-8835-77fbb1e46718.MOV
+
